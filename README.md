@@ -1,22 +1,25 @@
 inetfilter-moz-addons
 =====================
 
-About
+<h3>About</h3>
 
-NudeBlocker is an add ons for Mozilla software, but we are sorry this add ons is still in progress :( 
+<p>NudeBlocker is an add ons for Mozilla software, but we are sorry this add ons is still in progress :( 
 This project will be built for blocking nude image. 
-The goal is your surfing activity will be free from nude images when this add ons installed on your Mozilla web browser, such as Firefox.
+The goal is your surfing activity will be free from nude images when this add ons installed on your Mozilla web browser, such as Firefox.</p>
 
-Development
+<h3>Development</h3>
 
 The project was built using:
+<ol>
+<li>Mozilla add ons SDK (https://addons.mozilla.org/en-US/developers)</li>
+<li>nude.js, an open source Javascript project for scanning nude images (https://github.com/pa7/nude.js)</li>
+<li>JQuery, a new kind of javascript library (http://jquery.com)</li>
+</ol>
 
-Mozilla add ons SDK (https://addons.mozilla.org/en-US/developers)
-nude.js, an open source Javascript project for scanning nude images (https://github.com/pa7/nude.js)
-JQuery, a new kind of javascript library (http://jquery.com)
-Contact
+<h3>Contact</h3>
 
 If you have any questions about the project, don't hesitate to contact us:
-
-Rischan Mafrur (rischandroid@gmail.com)
-Nur Shalahuddin (saladin.elfajr@gmail.com)
+<ul>
+<li>Rischan Mafrur (<a href="mailto:rischandroid@gmail.com">rischandroid@gmail.com</a>)</li>
+<li>Nur Shalahuddin (<a href="mailto:saladin.elfajr@gmail.com">saladin.elfajr@gmail.com)</a></li>
+</ul>
