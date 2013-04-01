@@ -3,7 +3,7 @@ inetfilter-moz-addons
 
 <h3>About</h3>
 
-<p>NudeBlocker is an add-ons for Mozilla browser. This project was built for blocking nude image when you load images using Mozilla web browser. The goal of this add-ons is make your surfing activity free from nude images.</p>
+<p>inetfilter is an add-ons for Mozilla browser. This project was built for blocking nude image when you load images using Mozilla web browser. The goal of this add-ons is make your surfing activity free from nude images.</p>
 
 <h3>Development</h3>
 
