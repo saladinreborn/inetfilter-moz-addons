@@ -18,6 +18,7 @@ The project was built using:
 
 If you have any questions about the project, don't hesitate to contact us:
 <ul>
+<li>Bambang Sugiantoro (<a href="mailto:bambang05@gmail.com">bambang05@gmail.com</a>)</li>
 <li>Rischan Mafrur (<a href="mailto:rischandroid@gmail.com">rischandroid@gmail.com</a>)</li>
 <li>Nur Shalahuddin (<a href="mailto:saladin.elfajr@gmail.com">saladin.elfajr@gmail.com)</a></li>
 </ul>
